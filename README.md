@@ -11,7 +11,7 @@
 *Students can implement or can show implementation details via slides and Make PR to this Repo only* 
 
 - Sentiment Analysis of Twitter Messages Using Word2Vec (<a href="http://csis.pace.edu/~ctappert/srd2017/2016fallproj/d4t07.pdf"> Paper </a>)
-- When does a Compliment become Sexist? Analysis and Classification of,Ambivalent Sexism using Twitter Data (<a href="https://www.aclweb.org/anthology/W17-2902.pdf"> Paper </a>)
+- When does a Compliment become Sexist? Analysis and Classification of,Ambivalent Sexism using Twitter Data (<a href="https://www.aclweb.org/anthology/W17-2902.pdf">Paper</a>)
 - Sentiment Analysis Using Deep Learning Techniques: A Review (<a href="https://pdfs.semanticscholar.org/8892/24a64a5bc5f9e965f418a63b6768f7164993.pdf"> Paper </a>)
 
 
