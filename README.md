@@ -39,4 +39,4 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 - Music Player (<a href="https://github.com/iampawan/Flutter-Music-Player"> Repo </a>) (Intermediate,Search for bugs, add feature,create issues and solve them)
 
 ## DS_Algo
--New_learners(<a href="https://github.com/ankay212000/New_Learners_C-plus_plus_programming">Repo</a>)(Very Basic)
+- New_learners(<a href="https://github.com/ankay212000/New_Learners_C-plus_plus_programming">Repo</a>)(Very Basic)
