@@ -1,3 +1,5 @@
+<img src="https://www.jenkins.io/images/hacktoberfest/2020_badge_small.png" align=left height=200>
+
 # Tracks available
 
 | Index | Tracks | Sub-Category/Tech-Stack |
