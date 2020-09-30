@@ -19,6 +19,7 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 | 1 | Machine learning |[NLP](#nlp)|
 | 2 | Mobile Development |[Flutter](#flutter)|
 | 3 | Web Development| |
+| 4 | DS Algo (Very Simple,Just for beginners) | [Bug Fixes,What is the Output, Name the Algo](#ds_algo)|
 
 ## Machine Learning
 ### NLP 
@@ -33,7 +34,9 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 ### Flutter 
 *Students can solve issues of these projects by making PRs to their repo*
 
-- Simple News App (<a href="https://github.com/ankay212000/News_app_2.0"> Repo </a>)
-- Redmi Note 7s Calculator Clone (<a href="https://github.com/ankay212000/Flutter_based_calculator"> Repo </a>)
-- Music Player (<a href="https://github.com/iampawan/Flutter-Music-Player"> Repo </a>)
+- Simple News App (<a href="https://github.com/ankay212000/News_app_2.0"> Repo </a>) (Intermediate)
+- Redmi Note 7s Calculator Clone (<a href="https://github.com/ankay212000/Flutter_based_calculator"> Repo </a>) (Basic)
+- Music Player (<a href="https://github.com/iampawan/Flutter-Music-Player"> Repo </a>) (Intermediate)
 
+## DS_Algo
+-New_learners(<a href="https://github.com/ankay212000/New_Learners_C-plus_plus_programming">Repo</a>)(Very Basic)
