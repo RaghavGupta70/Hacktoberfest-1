@@ -20,6 +20,7 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 | 2 | Mobile Development |[Flutter](#flutter)|
 | 3 | Web Development| |
 | 4 | DS Algo (Very Simple,Just for beginners) | [Bug Fixes,What is the Output, Name the Algo](#ds_algo)|
+| 5 | Computer Vision (OpenCV) | [OpenCV,Python](#computer_vision) |
 
 ## Machine Learning
 ### NLP 
@@ -40,3 +41,9 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 
 ## DS_Algo
 - New_learners(<a href="https://github.com/ankay212000/New_Learners_C-plus_plus_programming">Repo</a>)(Very Basic)
+
+
+## Computer Vision
+
+- Webcam-Data-Utility Tool (<a href="https://github.com/janmejai2002/Webcam-Data-Utility">here</a>)(Python, Look For bugs, Make code modular)
+- Rock-Paper-Scissor Game (<a href="https://github.com/janmejai2002/Rock-Paper-Scissor">here</a>)(Improve game UI)
