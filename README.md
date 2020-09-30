@@ -3,7 +3,7 @@
 | Index | Tracks | Sub-Category/Tech-Stack |
 | --- | --- | --- |
 | 1 | Machine learning |[NLP](#nlp)|
-| 2 | Android Development |[Flutter](#flutter)|
+| 2 | Mobile Development |[Flutter](#flutter)|
 | 3 | Web Development| |
 
 ## Machine Learning
@@ -15,7 +15,7 @@
 - Sentiment Analysis Using Deep Learning Techniques: A Review (<a href="https://pdfs.semanticscholar.org/8892/24a64a5bc5f9e965f418a63b6768f7164993.pdf"> Paper </a>)
 
 
-## Android Development
+## Mobile Development
 ### Flutter 
 *Students can solve issues of these projects by making PRs to their repo*
 
