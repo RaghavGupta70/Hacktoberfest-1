@@ -16,11 +16,11 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 
 | Index | Tracks | Sub-Category/Tech-Stack |
 | --- | --- | --- |
-| 1 | Machine learning |[NLP](#nlp)|
+| 1 | Machine learning |[NLP](#nlp),[Computer Vision](#computer_vision)|
 | 2 | Mobile Development |[Flutter](#flutter)|
 | 3 | Web Development| |
 | 4 | DS Algo (Very Simple,Just for beginners) | [Bug Fixes,What is the Output, Name the Algo](#ds_algo)|
-| 5 | Computer Vision (OpenCV) | [OpenCV,Python](#computer_vision) |
+| 5 | Computer Vision (OpenCV) | [OpenCV,Python](#OpenCV) |
 
 *We encourage you to contribute to some projects instead of simple repos with just question and answers (like DS Algo) ,but if anyone struggles with git and github then they can refer to that repo*
 
@@ -32,6 +32,8 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 - When does a Compliment become Sexist? Analysis and Classification of,Ambivalent Sexism using Twitter Data (<a href="https://www.aclweb.org/anthology/W17-2902.pdf">Paper</a>)
 - Sentiment Analysis Using Deep Learning Techniques: A Review (<a href="https://pdfs.semanticscholar.org/8892/24a64a5bc5f9e965f418a63b6768f7164993.pdf"> Paper </a>)
 
+### Computer_Vision
+- Goggles for blind (<a href="https://github.com/ankay212000/Goggles_for_blind"> Repo </a>) (Intermediate)
 
 ## Mobile Development
 ### Flutter 
@@ -45,7 +47,7 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 - New_learners(<a href="https://github.com/ankay212000/New_Learners_C-plus_plus_programming">Repo</a>)(Very Basic)
 
 
-## Computer_Vision
+## OpenCV
 
-- Webcam-Data-Utility Tool (<a href="https://github.com/janmejai2002/Webcam-Data-Utility">here</a>)(Python, Look For bugs, Make code modular)
-- Rock-Paper-Scissor Game (<a href="https://github.com/janmejai2002/Rock-Paper-Scissor">here</a>)(Improve game UI)
+- Webcam-Data-Utility Tool (<a href="https://github.com/janmejai2002/Webcam-Data-Utility">Repo</a>) (Python, Look For bugs, Make code modular)
+- Rock-Paper-Scissor Game (<a href="https://github.com/janmejai2002/Rock-Paper-Scissor">Repo</a>) (Improve game UI)
