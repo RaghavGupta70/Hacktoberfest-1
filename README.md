@@ -47,7 +47,8 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 - New_learners(<a href="https://github.com/ankay212000/New_Learners_C-plus_plus_programming">Repo</a>)(Very Basic)
 
 
-## OpenCV
+## Computer Vision(Open CV)
+### OpenCV
 
 - Webcam-Data-Utility Tool (<a href="https://github.com/janmejai2002/Webcam-Data-Utility">Repo</a>) (Python, Look For bugs, Make code modular)
 - Rock-Paper-Scissor Game (<a href="https://github.com/janmejai2002/Rock-Paper-Scissor">Repo</a>) (Improve game UI)
