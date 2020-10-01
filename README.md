@@ -16,7 +16,7 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 
 | Index | Tracks | Sub-Category/Tech-Stack |
 | --- | --- | --- |
-| 1 | Machine learning |[NLP](#nlp),[Computer Vision](#computer_vision)|
+| 1 | Machine learning |[NLP](#nlp), [Computer Vision](#computer_vision)|
 | 2 | Mobile Development |[Flutter](#flutter)|
 | 3 | Web Development| |
 | 4 | DS Algo (Very Simple,Just for beginners) | [Bug Fixes,What is the Output, Name the Algo](#ds_algo)|
