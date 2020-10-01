@@ -20,7 +20,7 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 | 2 | Mobile Development |[Flutter](#flutter)|
 | 3 | Web Development| |
 | 4 | DS Algo (Very Simple,Just for beginners) | [Bug Fixes,What is the Output, Name the Algo](#ds_algo)|
-| 5 | Computer Vision (OpenCV) | [OpenCV,Python](#OpenCV) |
+| 5 | Computer Vision (OpenCV) | [OpenCV](#OpenCV) |
 
 *We encourage you to contribute to some projects instead of simple repos with just question and answers (like DS Algo) ,but if anyone struggles with git and github then they can refer to that repo*
 
